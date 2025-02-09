@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/tb_mux4x1_isim_beh.exe" -prj "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/tb_mux4x1_beh.prj" "work.tb_mux4x1" 

@@ -1,0 +1,8 @@
+vhdl work "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/xorop.vhd"
+vhdl work "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/register_16bit.vhd"
+vhdl work "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/mux4x1.vhd"
+vhdl work "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/mulop.vhd"
+vhdl work "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/addop.vhd"
+vhdl work "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/datapath.vhd"
+vhdl work "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/control.vhd"
+vhdl work "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/clockedround.vhd"

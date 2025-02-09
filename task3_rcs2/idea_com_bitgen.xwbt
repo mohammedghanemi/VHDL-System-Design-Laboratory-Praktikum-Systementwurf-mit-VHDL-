@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/idea_com.ncd
+OUTFILE=/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/idea_com.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2
+LICENSE=WebPack
+USER_INFO=212328323_0_0_257

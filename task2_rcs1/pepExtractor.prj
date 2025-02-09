@@ -1,0 +1,4 @@
+work	"control.vhd"
+work	"idea_single.vhd"
+work	"mux2x1.vhd"
+work	"register_16bit.vhd"

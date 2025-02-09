@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/mnt/hgfs/vm_share/other/moh/direct/tb_idea_isim_beh.exe" -prj "/mnt/hgfs/vm_share/other/moh/direct/tb_idea_beh.prj" "work.tb_idea" 

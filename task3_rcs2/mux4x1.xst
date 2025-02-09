@@ -1,0 +1,5 @@
+set -tmpdir "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/xst/projnav.tmp"
+set -xsthdpdir "/mnt/hgfs/VHDL-Lab/submission_template/submit/rcs2/xst"
+elaborate
+-ifn mux4x1.prj
+-ifmt mixed
